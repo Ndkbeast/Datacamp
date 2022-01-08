@@ -1,2 +1,2 @@
 # Datacamp
-Datacamp courses and projects
+All the courses projects from Datacamp I have successfully completed.
